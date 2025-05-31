@@ -1,0 +1,80 @@
+---
+title: "Own Your Power"
+layout: "../layouts/BaseLayout.astro"
+---
+
+<section class="bg-white py-16 px-6 md:px-12">
+  <div class="max-w-4xl mx-auto text-center">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">Own Your Power: A Women in Leadership Lab + Digital Learning Pathway</h1>
+    <p class="text-lg text-gray-600 mb-6">
+      A personalized leadership experience for women ready to grow their influence, clarify their voice, and lead with confidence—supported by expert facilitation and custom-built eLearning.
+    </p>
+    <a href="#contact" class="inline-block bg-rose-600 text-white text-sm font-semibold px-6 py-3 rounded-lg shadow hover:bg-rose-700 transition">Book Your Discovery Call</a>
+  </div>
+</section>
+
+<section class="bg-gray-50 py-16 px-6 md:px-12">
+  <div class="max-w-3xl mx-auto">
+    <h2 class="text-2xl font-semibold text-gray-900 mb-4">What This Is</h2>
+    <p class="text-gray-700 mb-4">
+      Own Your Power is a high-impact, 1:1 virtual leadership development experience designed specifically for women navigating growth, visibility, or change in their careers. It combines live coaching with on-demand eLearning to help you build clarity, confidence, and strategic strength.
+    </p>
+    <p class="text-gray-700">
+      Whether you're an emerging leader, founder, or mid-career professional, this experience is tailored to who you are and where you're going.
+    </p>
+  </div>
+</section>
+
+<section class="py-16 px-6 md:px-12">
+  <div class="max-w-5xl mx-auto grid md:grid-cols-2 gap-12">
+    <div>
+      <h2 class="text-2xl font-semibold text-gray-900 mb-4">What’s Included</h2>
+      <ul class="space-y-3 text-gray-700">
+        <li><strong>✓ Pre-Session eLearning Module:</strong> Reflect on your leadership values and goals (20–30 min)</li>
+        <li><strong>✦ 4-Hour Live 1:1 Leadership Lab:</strong> Private session split into 2 x 2-hour segments with a break</li>
+        <li><strong>✓ Custom Workbook & Reflection Journal:</strong> Personalized learning tools</li>
+        <li><strong>✓ Post-Session eLearning Module:</strong> Apply strategies and maintain momentum (15–20 min)</li>
+        <li><strong>✓ Strategy Call (30 mins):</strong> One-on-one follow-up support session</li>
+        <li><strong>✓ Personalized Email Summary:</strong> Action map and key takeaways</li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="text-2xl font-semibold text-gray-900 mb-4">What You’ll Walk Away With</h2>
+      <ul class="space-y-3 text-gray-700">
+        <li>A renewed sense of clarity and confidence in your leadership</li>
+        <li>Tailored strategies for influence, communication, and growth</li>
+        <li>A personal growth plan aligned with your goals and values</li>
+        <li>On-demand tools and reflection resources to revisit anytime</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="bg-gray-100 py-16 px-6 md:px-12">
+  <div class="max-w-4xl mx-auto">
+    <h2 class="text-2xl font-semibold text-gray-900 mb-4">Pricing & Availability</h2>
+    <p class="text-gray-700 mb-4">
+      <strong>Full Leadership Experience: $1,100</strong><br>
+      <span class="text-rose-600 font-semibold">Launch Pilot Pricing: $950</span> (Available through [insert date])
+    </p>
+    <p class="text-gray-700">Booking is open for July and August 2025. Spots are limited for high-touch, personalized support.</p>
+    <a href="#contact" class="mt-6 inline-block bg-rose-600 text-white text-sm font-semibold px-6 py-3 rounded-lg shadow hover:bg-rose-700 transition">Book Your Discovery Call</a>
+  </div>
+</section>
+
+<section class="py-16 px-6 md:px-12">
+  <div class="max-w-4xl mx-auto text-center">
+    <h2 class="text-2xl font-semibold text-gray-900 mb-4">About Amy</h2>
+    <p class="text-gray-700">
+      I’m Amy Cozart-Lundin, a senior instructional designer, leadership coach, and co-founder of Cozyartz Media Group. I’ve spent over a decade designing meaningful, human-centered learning experiences for professionals and organizations. As a women-owned business founder and corporate trainer, I help women leaders step into their power with clarity, confidence, and purpose.
+    </p>
+  </div>
+</section>
+
+<section id="contact" class="bg-white py-16 px-6 md:px-12">
+  <div class="max-w-4xl mx-auto text-center">
+    <h2 class="text-2xl font-semibold text-gray-900 mb-4">Let’s build your leadership path together.</h2>
+    <p class="text-gray-700 mb-6">Book your discovery call to explore if this experience is the right fit for you or your team.</p>
+    <a href="mailto:amy@cozyartzmedia.com" class="inline-block bg-rose-600 text-white text-sm font-semibold px-6 py-3 rounded-lg shadow hover:bg-rose-700 transition">Email Amy</a>
+  </div>
+</section>
